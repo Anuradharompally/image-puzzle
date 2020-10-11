@@ -36,5 +36,6 @@ While working on a large project, it's a good idea to spend sometime planning. S
 
 ##link to play grid game Demo :
  ( https://anuradharompally.github.io/image-puzzle/)
- (../Desktop/template.png?raw=true "Title")
+ ![template](https://user-images.githubusercontent.com/70049584/95683815-3814e880-0c0b-11eb-9736-8ec1ada4d7ef.png)
+
  

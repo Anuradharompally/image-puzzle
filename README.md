@@ -36,5 +36,5 @@ While working on a large project, it's a good idea to spend sometime planning. S
 
 ##link to play grid game Demo :
  ( https://anuradharompally.github.io/image-puzzle/)
- ![Alt text](relative/path/to/template.png?raw=true "Title")
+ (../Desktop/template.png?raw=true "Title")
  

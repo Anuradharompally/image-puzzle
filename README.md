@@ -34,8 +34,9 @@ While working on a large project, it's a good idea to spend sometime planning. S
 - Decide how much time you would like to allocate to each stage. A [Gantt chart](https://en.wikipedia.org/wiki/Gantt_chart) is a useful tool for keeping track of these time frames. It shows how long each task should take, but it also shows which tasks can be done at the same time and which must be done sequentially.
 - Keep the project on track. **Review, revise and reallocate**. Run through these three “Rs” on an ongoing basis. 
 
-##link to play grid game Demo :
+#Play:
  ( https://anuradharompally.github.io/image-puzzle/)
+ 
  ![template](https://user-images.githubusercontent.com/70049584/95683815-3814e880-0c0b-11eb-9736-8ec1ada4d7ef.png)
 
  
